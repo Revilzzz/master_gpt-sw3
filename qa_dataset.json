@@ -1,0 +1,152 @@
+[
+  {
+    "context": "Över hälften av Sundsvalls handelsföretag påverkas negativt av brottslighet och otrygghet.",
+    "question": "Hur påvverkas Sundsvalls handelsföretag av brottslighet och otrygghet?",
+    "answer": "Negativt"
+  },
+  {
+    "context": "Senast 2029-02-28 ska kultur- och fritidsnämnden återrapportera till kommunfullmäktige angående samordna arbetet med evenemanget.",
+    "question": "När ska kultur- och fritidsnämnden återrapportera till kommunfullmäktige angående samordna arbetet med evenemanget?",
+    "answer": "2029-02-28"
+  },
+  {
+    "context": "Orienteringstävlingen O-ringen 2028 pågår mellan 23-29 juli.",
+    "question": "När pågår orienteringstävlingen O-ringen 2028?",
+    "answer": "23-29 juli"
+  },
+  {
+    "context": "Kommunstyrelsekontoret föreslår att Sundsvalls kommun ska stå som värdkommun för O-Ringen 2028.",
+    "question": "Vill kommunstyrelsekontoret att Sundsvalls kommun ska stå som värd för O-Ringen 2028?",
+    "answer": "Ja"
+  },
+  {
+    "context": "O-Ringen Sundsvall 2028 är tänkt att erbjuda sex olika tävlingsformer inom grenen OL",
+    "question": "Hur många olika tävlingsformer är det tänkt att erbjuda inom grenen OL för O-Ringen Sundsvall 2028?",
+    "answer": "Sex stycken"
+  },
+  {
+    "context": "O-Ringen Sundsvall 2028 är tänkt att erbjuda fyra olika tävlingsformer inom grenen MTBO",
+    "question": "Hur många olika tävlingsformer är det tänkt att erbjuda inom grenen MTBO för O-Ringen Sundsvall 2028?",
+    "answer": "Fyra stycken"
+  },
+  {
+    "context": "O-Ringen Sundsvall 2028 är tänkt att erbjuda två olika tävlingsformer inom grenen PREO",
+    "question": "Hur många olika tävlingsformer är det tänkt att erbjuda inom grenen PREO för O-Ringen Sundsvall 2028?",
+    "answer": "Två stycken"
+  },
+  {
+    "context": "Den Blå Alliansen (M, KD och L) har i ett nämndinitiativ föreslagit att det inom kategorin infrastruktur ska göras en utredning av hur utländska aktörers ägande och arrende i och i anslutning till exempelvis Sundsvalls hamn, Sundsvalls Logistikpark och Sunsvall Timrå-Airport kan påverka övrig verksamhet.",
+    "question": "Varför har den Blå Alliansen (M, KD och L) föreslagit att det ska göra en utredning av hur utländska aktörers ägande och arrende i och i anslutning till exempelvis Sundsvalls hamn, Sundsvalls Logistikpark och Sunsvall Timrå-Airport",
+    "answer": "Hur det kan påverka övrig verksamhet."
+  },
+  {
+    "context": "Sundsvalls andel av Medelpads räddningstjänstförbund är 85 procent, baserad på dels befolkningsandel samt glesbygdsfaktor.",
+    "question": "Hur stor andel av Medelpads räddningstjänstförbund är baserad på dels befolkningsandel samt glesbygdsfaktor?",
+    "answer": "85 procent"
+  },
+  {
+    "context": "Medelpads räddningstjänstförbund har en ansträngd ekonomisk situation",
+    "question": "Hur är Medelpads räddningstjänstförbunds ekonomiska situation?",
+    "answer": "Ansträngd"
+  },
+  {
+    "context": "Järnvägen Fastigheter AB har inkommit med en begäran om ändring av detaljplan för att möjliggöra byggrätt för bostadsändamål på fastigheten Njurunda Prästbol 1:123, samt centrumändamål för den befintliga Prästgården.",
+    "question": "På vilken adress har Järnvägen Fastigheter AV inkommit med en begäran om ändring av detaljplan för att möjliggöra byggrätt för bostadsändamål?",
+    "answer": "Njurunda Prästbol 1:124"
+  },
+  {
+    "context": "Terrängen inom planområdet medger god tillgänglighet utomhus för personer med nedsatt rörelseförmåga.",
+    "question": "Hur är tillgängligheten utomhus för personer med nedsatt rörelseförmåga?",
+    "answer": "God"
+  },
+  {
+    "context": "En fladdermusinventering utfördes (Fladdermusinventering inom detaljplan, Njurunda Prästbol 1:124) under perioden 2022-08-21 till och med 2022-09-13.",
+    "question": "När genomfördes en fladdermusinventering på adressen Njurunda Prästbol 1:124?",
+    "answer": "Under perioden 2022-08-21 till och med 2022-09-13"
+  },
+  {
+    "context": "Vid inventeringen observerades totalt fyra fladdermusarter: nordfladdermus, vattenfladdermus, större brunfladdermus och mustasch-/tajgafladdermus.",
+    "question": "Hur många fladdermusarter observerades vid Njurunda Prästbol 1:124?",
+    "answer": "Fyra stycken"
+  },
+  {
+    "context": "Vid inventeringen observerades totalt fyra fladdermusarter: nordfladdermus, vattenfladdermus, större brunfladdermus och mustasch-/tajgafladdermus.",
+    "question": "Vilka fladdermusarter observerades vid Njurunda Prästbol 1:124?",
+    "answer": "Nordfladdermus, vattenfladdermus, större brunfladdermus och mustasch-/tajgafladdermus."
+  },
+  {
+    "context": "För kontor räknar mobilitetsnormen att det behövs 17 parkeringsplatser per 1000 m2 BTA i Njurundabommen",
+    "question": "Hur många parkeringsplatser krävs det per 1000 m2 kontor i Njurundabommen?",
+    "answer": "17 stycken"
+  },
+  {
+    "context": "För bostäder upp till 35 m2 ligger nivån på 65 dBA ekvivalent ljudnivå. För bostäder större än 35 m2 gäller 60 dBA ekvivalent ljudnivå.",
+    "question": "Vad är den maximala ljudnivån för bostäder upp till 35 m2?",
+    "answer": "65 dBA"
+  },
+  {
+    "context": "För bostäder upp till 35 m2 ligger nivån på 65 dBA ekvivalent ljudnivå. För bostäder större än 35 m2 gäller 60 dBA ekvivalent ljudnivå.",
+    "question": "Vad är den maximala ljudnivån för bostäder större än 35 m2?",
+    "answer": "60 dBA"
+  },
+  {
+    "context": "Krav på inomhusvärden avseende buller för bostäder och andra typer av lokaler regleras i Boverkets byggregler BBR.",
+    "question": "Vad är det som bestämmer buller för bostäder och andra lokaler?",
+    "answer": "Boverkets byggregler BBR"
+  },
+  {
+    "context": "Ostkustbanan passerar på en bank öster om planområdet, med ett avstånd på cirka 68 meter till närmaste byggrätt för centrumverksamheter (Prästgården) och cirka 76 meter till närmaste föreslagna byggrätt för bostäder.",
+    "question": "Vad är avståndet från ostkustbanan till Prästgården?",
+    "answer": "Cirka 68 meter"
+  },
+  {
+    "context": "Ostkustbanan passerar på en bank öster om planområdet, med ett avstånd på cirka 68 meter till närmaste byggrätt för centrumverksamheter (Prästgården) och cirka 76 meter till närmaste föreslagna byggrätt för bostäder.",
+    "question": "Vad är avståndet från ostkustbanan till närmaste föreslagana byggrätt för bostäder?",
+    "answer": "Cirka 76 meter"
+  },
+  {
+    "context": "År 2013 avskildes fastigheten från kyrkans mark och såldes till en privat ägare.",
+    "question": "Vilket år avskildes fastigeheten prästgården från krykans mark och såldes till en privat ägare?",
+    "answer": "Året 2013"
+  },
+  {
+    "context": "Nedre Ljungan består av en 17 km lång sträckan av Ljungan nedströms kraftverket vid Viforsen.",
+    "question": "Hur lång är sträckan av nedre Ljungan?",
+    "answer": "17 km"
+  },
+  {
+    "context": "Nedre Ljungan består av en 17 km lång sträckan av Ljungan nedströms kraftverket vid Viforsen.",
+    "question": "Vart början sträckan av nedre Ljungan?",
+    "answer": "Viforsens kraftverk"
+  },
+  {
+    "context": "Befintliga vatten- och spillvattenledningar med tillräcklig kapacitet finns i omkringliggande gator.",
+    "question": "Finns det tillräckligt med kapacitet i vatten- och spillvattenledningar kring Njurunda Prästbol 1:124 för att ansluta fler bostäder?",
+    "answer": "Ja"
+  },
+  {
+    "context": "En traditionell fastighet är avgränsad horisontellt på marken. I teorin sträcker sig en fastighet från markytan in till jordens medelpunkt och ut i rymden.",
+    "question": "Hur långt sträcker sig en fastighet vågrätt?",
+    "answer": "Från jordens medelpunkt och ut i rymden"
+  },
+  {
+    "context": "Njurundaföretagarna grundades år 1998.",
+    "question": "Vilket år grundades Njurundaföretagarna?",
+    "answer": "Året 1998"
+  },
+  {
+    "context": "Njurundaföretagarna nuläget dryga 200 medlemmar, främst företag men också föreningar samt vissa privata stödmedlemmar.",
+    "question": "Hur många medlemmar finns det i Njurundaföretagarna?",
+    "answer": "Drygt 200 medlemmar"
+  },
+  {
+    "context": "När bensinstationen på fastigheten Njurunda Prästbol 1:97 lades ner undersöktes mark och grundvatten år 2006.",
+    "question": "Vilket år undersöktes mark och grundvatten på fastigheten Njurunda Prästbol 1:97?",
+    "answer": "Året 2006"
+  },
+  {
+    "context": "Det saknas grönytor i centrala Njurundabommen, och skogsdungen som nu planeras att bebyggas kan upplevas som betydelsefull för närboende. Det är olyckligt att grönytor bebyggs när området behöver fler grönytor som kan ge positiva effekter och bidra till en god bebyggd miljö.",
+    "question": "Saknas det grönytor i centrala Njurundabommen?",
+    "answer": "Ja"
+  }
+]
